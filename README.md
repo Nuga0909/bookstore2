@@ -15,6 +15,7 @@
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
+  - [⭐️ Acknowledgements ](#️-acknowledgements-)
   - [📝 License ](#-license-)
 
 # 📖 BookStore <a name="about-project"></a>
@@ -97,6 +98,13 @@ Feel free to check the [issues page](https://github.com/nuga0909/bookstore2/issu
 ## ⭐️ Show your support <a name="support"></a>
 
 Give a ⭐️ if you like this project! It's help a lot
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Acknowledgments <a name="acknowledgements"></a>
+
+- Hat tip to Microverse for giving me this project to work on
+- Hat tip to the person his/her code was used
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
