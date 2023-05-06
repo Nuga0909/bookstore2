@@ -32,4 +32,4 @@ function Book(prop) {
   );
 }
 
-export default Book;
+export default Books;

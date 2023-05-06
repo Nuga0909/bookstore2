@@ -1,5 +1,5 @@
 import React from 'react';
-import Book from './Book';
+import Book from './Books';
 import Form from './BooksForm';
 
 class BookList extends React.PureComponent {
