@@ -15,7 +15,7 @@
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
-  - [⭐️ Acknowledgements ](#️-acknowledgements-)
+  - [🤝Acknowledgements ](#️-acknowledgements-)
   - [📝 License ](#-license-)
 
 # 📖 BookStore <a name="about-project"></a>
@@ -101,7 +101,7 @@ Give a ⭐️ if you like this project! It's help a lot
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Acknowledgments <a name="acknowledgements"></a>
+## 🤝Acknowledgments <a name="acknowledgements"></a>
 
 - Hat tip to Microverse for giving me this project to work on
 - Hat tip to the person his/her code was used
