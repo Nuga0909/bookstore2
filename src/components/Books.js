@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Book(prop) {
+function Books(prop) {
   const { title, author } = prop;
   return (
     <div className="abook flex">
